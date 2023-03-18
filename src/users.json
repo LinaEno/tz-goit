@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Elon Reeve Musk",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/9763/9763805.png"
+  },
+  {
+    "id": 2,
+    "name": "Elona Musk",
+    "tweets": 111,
+    "followers": 100,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/6084/6084482.png"
+  },
+  {
+    "id": 3,
+    "name": "Jon Snow",
+    "tweets": 222,
+    "followers": 500,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/6997/6997508.png"
+  },
+  {
+    "id": 4,
+    "name": "Carl Snake",
+    "tweets": 333,
+    "followers": 1000,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/9586/9586321.png"
+  },
+  {
+    "id": 5,
+    "name": "Sarah Raine",
+    "tweets": 444,
+    "followers": 10000,
+    "avatar": "https://cdn-icons-png.flaticon.com/512/9600/9600969.png"
+  }
+]
